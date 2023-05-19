@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/top-view-office-desk-copy-space-56038599.jpg");
+    background-size: 100%;
+}
+.main{
+    background-color: green;
+    text-align: center;
+}
+.main ul {
+  display: inline-flex;
+  list-style:none; 
+  color:white;
+}
+.main ul li{
+    cursor: pointer;
+  width: 120px;
+ margin: 15px;
+ padding: 15px;
+}
+.main ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.active, .main ul li:hover {
+    background:rgb(0, 100,0);
+   border-radius: 3px;
+}
+.sub-marin-1{
+    display: none;
+}
+.main ul li:hover .sub-marin-1{
+ display: block;
+ position: absolute;
+ background: rgb(0, 100,0);
+ margin-top:15px ;
+ margin-left: -15px;
+}
+.main ul li:hover .sub-marin-1 ul{
+  display: block;
+    margin: 10px;
+}
+.main ul li:hover .sub-marin-1 ul li{
+  width: 150px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  text-align: left;
+  border-radius: 0;
+  padding:10px;
+}
+.main ul li:hover .sub-marin-1 ul li a:hover{
+    color: #b2ff00;
+}
+.sub-marin-2{
+ display: none;
+}
+.hover-me:hover .sub-marin-2{
+   background:  rgb(0, 100,0);
+   position: absolute;
+   margin-top: -40px;
+    display: block;
+   margin-left: 140px;
+}

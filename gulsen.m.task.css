@@ -1,0 +1,415 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+#bir {
+    box-sizing: border-box;
+    width: 1077px;
+    height: 500px;
+    margin-top: -50px;
+    background-image: url('https://c1.wallpaperflare.com/preview/448/507/642/yellow-background-pencil-designer.jpg');
+    background-size: cover;
+}
+
+#alti {
+    width: 30px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10%;
+    margin-left: 1020px;
+    margin-top: 15px;
+    position: fixed;
+    color: white;
+    font-size: 30px;
+    background-color: grey;
+    opacity: 30%;
+}
+
+#alti:hover {
+    background-color: rgb(2, 14, 14);
+}
+
+#Y {
+    width: 30px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10%;
+    margin-top: 450px;
+    margin-left: 1020px;
+    margin-bottom: 15px;
+    position: fixed;
+    color: white;
+    font-size: 30px;
+    opacity: 30%;
+    background-color: grey;
+}
+
+#Y:hover {
+    background-color: rgb(2, 14, 14);
+}
+
+.A {
+    font-size: 70px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 140px;
+    height: 50px;
+}
+
+.B {
+    padding-left: 110px;
+    font-size: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.C {
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    text-align: center;
+    margin: center;
+    border-radius: 5%;
+    margin-top: 40px;
+    margin-left: 500px;
+    color: white;
+    background-color: rgb(74, 126, 172);
+    width: 150px;
+    height: 50px;
+}
+
+.C:hover {
+    background-color: rgb(48, 83, 113);
+}
+
+#iki {
+    margin-top: -40px;
+    margin-bottom: -40px;
+    width: 1077px;
+    background-color: white;
+    height: 500px;
+}
+
+.E {
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    display: fixed;
+    text-align: center;
+    margin: center;
+    border-radius: 5%;
+    margin-left: 500px;
+    margin-top: 40px;
+    color: white;
+    background-color: rgb(10, 1, 21);
+    width: 150px;
+    height: 50px;
+}
+
+.E:hover {
+    transition: 0.5s;
+    transform: translateY(-5px);
+    background-color: rgb(71, 6, 150);
+}
+
+h3 {
+    padding-top: 80px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    padding-left: 120px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#uc {
+    width: 1077px;
+    padding-top: -20px;
+    height: 550px;
+    background-color: #1D809F;
+}
+
+.item {
+    display: inline-block;
+    background-color: white;
+    width: 130px;
+    position: relative;
+    height: 130px;
+    margin-left: 100px;
+    border: 1px solid rgb(60, 141, 192);
+    border-radius: 100%;
+}
+
+.sari {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+h4 {
+    color: rgb(246, 246, 15);
+    text-align: center;
+    padding-top: 60px;
+    font-size: 30px;
+}
+
+.sari1 {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+#dord {
+
+    font-family: 'Inter', sans-serif;
+    margin-top: -20px;
+    text-align: center;
+    margin-left: -60px;
+    font-size: 60px;
+    color: white;
+}
+
+.sari2 {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.S {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    padding-top: 55px;
+    margin-left: -125px;
+    font-size: 25px;
+}
+
+.sari3 {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.ders {
+    position: relative;
+    color: deepskyblue;
+    font-size: 15px;
+    margin-top: -25px;
+    margin-left: -130px;
+}
+
+#H {
+    margin: 0%;
+    padding: 0%;
+    margin-top: -34px;
+    width: 1077px;
+    height: 650px;
+    background-image: url('https://images.unsplash.com/photo-1510070009289-b5bc34383727?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80');
+    background-size: cover;
+}
+
+.komp1 {
+    padding-left: 50px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    height: 30px;
+    padding-top: 200px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.komp {
+    padding-left: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Q {
+    margin-top: -15px;
+    width: 1077px;
+    height: 900px;
+    background-color: white;
+}
+
+.R {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(210, 150, 38);
+}
+
+.I {
+    text-align: center;
+    margin-top: -10px;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.P {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin-left: 150px;
+    background-image: url(http://www.envelopesuperstore.com/blog/content/images/2021/07/41734023384_702d4a468d_b.jpg);
+    background-size: cover;
+}
+
+.P:hover {
+    transition: 1s;
+    transform: scale(0.8, 0.8);
+}
+
+.P2 {
+    position: relative;
+    display: inline-block;
+    top: 22px;
+    width: 400px;
+    height: 300px;
+    margin-left: -4px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0255/4757/1246/products/15424002151_724129622_1024x1024.jpg?v=1595741191);
+    background-size: cover;
+}
+
+.P2:hover {
+    transition: 1s;
+    transform: scale(0.8, 0.8);
+}
+
+.P3 {
+    position: relative;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    background-image: url(https://media.istockphoto.com/id/1153019547/photo/red-strawberries-on-blue-background.jpg?s=170667a&w=0&k=20&c=sTrVk4o9Bp1PyD7oajhVYcHzQHOW--vkas0WCv0CPmM=);
+    background-size: cover;
+}
+
+.P3:hover {
+    transition: 1s;
+    transform: scale(0.8, 0.8);
+}
+
+.P4 {
+    top: -23px;
+    position: relative;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin-left: -4px;
+    margin-bottom: 20px;
+    background-image: url(https://images.unsplash.com/photo-1510070009289-b5bc34383727?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80);
+    background-size: cover;
+}
+
+.P4:hover {
+    transition: 1s;
+    transform: scale(0.8, 0.8);
+}
+
+#O {
+    width: 1077px;
+    height: 300px;
+    background-color: #1D809F;
+}
+
+.k {
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    font-size: 40px;
+    padding-left: -20px;
+    font-family: 'Shantell Sans', cursive;
+
+}
+
+.L {
+    display: inline-block;
+    margin: auto;
+    background-color: white;
+    width: 150px;
+    border-radius: 10%;
+    height: 60px;
+    margin-left: 380px;
+}
+
+.G {
+    margin: auto;
+    width: 150px;
+    height: 60px;
+    border-radius: 10%;
+    color: white;
+    margin-left: 80px;
+    background-color: rgb(7, 27, 37);
+}
+
+#R {
+    width: 1077px;
+    height: 300px;
+    background-image: url('https://s.hdnux.com/photos/01/10/25/07/18960850/4/rawImage.jpg');
+    background-size: cover;
+}
+
+#J {
+    position: relative;
+    width: 1077px;
+    height: 300px;
+}
+
+.N {
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.M {
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+#J>div {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #1D809F;
+    border: 1px solid rgb(122, 169, 231);
+    border-radius: 50%;
+    margin-top: 80px;
+}
+
+#J>div:first-child {
+    margin-left: 400px;
+}
+
+span {
+    position: absolute;
+    top: 250px;
+    left: 470px;
+}
+
+.icon {
+    width: 40px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#J>div:hover {
+    background-color: rgb(41, 72, 109);
+}
